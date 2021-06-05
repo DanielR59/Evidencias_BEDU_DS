@@ -1,7 +1,7 @@
 # Descripción
 Autor : José Daniel Rosas Avila
 
-En este archivo se encuentran las evidencias de los retos y ejercicios de la clase 6.
+En este archivo se encuentran las evidencias de los retos y ejercicios de la clase 7.
 
 
 # Reto 1
